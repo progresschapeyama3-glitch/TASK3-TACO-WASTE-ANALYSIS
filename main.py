@@ -9,7 +9,7 @@ from data_processor import DataProcessor
 # Configuration
 # ---------------------------------------------------------
 
-TACO_IMAGE_DIRECTORY = Path("data")
+TACO_IMAGE_DIRECTORY = Path(".")
 ANNOTATION_FILE = Path("annotations.json")
 
 
