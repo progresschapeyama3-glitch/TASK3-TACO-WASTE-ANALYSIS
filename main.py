@@ -1,8 +1,8 @@
 import streamlit as st
 from pathlib import Path
 
-from src.dataset_loader import DatasetLoader
-from src.data_processor import DataProcessor
+from dataset_loader import DatasetLoader
+from data_processor import DataProcessor
 
 
 # ---------------------------------------------------------
