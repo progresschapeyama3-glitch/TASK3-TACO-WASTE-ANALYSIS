@@ -10,7 +10,7 @@ from data_processor import DataProcessor
 # ---------------------------------------------------------
 
 TACO_IMAGE_DIRECTORY = Path("data")
-ANNOTATION_FILE = Path("data/annotations.json")
+ANNOTATION_FILE = Path("annotations.json")
 
 
 st.set_page_config(
