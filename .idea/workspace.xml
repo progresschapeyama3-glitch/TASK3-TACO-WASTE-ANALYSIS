@@ -4,15 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6915bbb-a2b8-4ec2-9ec1-ea7a0bc9d2bd" name="Changes" comment="" />
+    <list default="true" id="d6915bbb-a2b8-4ec2-9ec1-ea7a0bc9d2bd" name="Changes" comment="TACO WASTE ANALYSIS APPLICATION">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/data_processor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/dataset_loader.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;progresschapeyama3-glitch&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/progresschapeyama3-glitch/TASK3-TACO-WASTE-ANALYSIS.git&quot;,
+    &quot;accountId&quot;: &quot;4d99c06b-a87d-4775-9a0a-bf75ea5f08ba&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -24,13 +47,30 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests in test_data_processor.py.executor": "Run",
+    "Python tests.Python tests in test_dataset_loader.py.executor": "Run",
+    "Python tests.Python tests in test_image_functions.py.executor": "Run",
     "Python.mainn.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Users/hp440 g7/OneDrive/Desktop/Task3-TACO-Waste-Analysis"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "repository"
+    ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hp440 g7\OneDrive\Desktop\Task3-TACO-Waste-Analysis\tests" />
+      <recent name="C:\Users\hp440 g7\OneDrive\Desktop\Task3-TACO-Waste-Analysis\src\src" />
+      <recent name="C:\Users\hp440 g7\OneDrive\Desktop\Task3-TACO-Waste-Analysis\src" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="mainn.py" type="PythonConfigurationType" factoryName="Python">
       <module name="Task3-TACO-Waste-Analysis" />
@@ -45,7 +85,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mainn.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\hp440 g7\OneDrive\Desktop\Task3-TACO-Waste-Analysis\main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,6 +110,27 @@
       <option name="presentableId" value="Default" />
       <updated>1789122518907</updated>
     </task>
+    <task id="LOCAL-00001" summary="TACO WASTE ANALYSIS APPLICATION">
+      <option name="closed" value="true" />
+      <created>1789130727868</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1789130727868</updated>
+    </task>
+    <task id="LOCAL-00002" summary="TACO WASTE ANALYSIS APPLICATION">
+      <option name="closed" value="true" />
+      <created>1789131833174</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1789131833174</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TACO WASTE ANALYSIS APPLICATION" />
+    <option name="LAST_COMMIT_MESSAGE" value="TACO WASTE ANALYSIS APPLICATION" />
   </component>
 </project>
