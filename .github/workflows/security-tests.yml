@@ -33,6 +33,19 @@ jobs:
         run: |
           bandit -r src main.py
 
+      - name: Start application
+        run: |
+          python -m streamlit run main.py --server.headless true --server.port 8501 &
+
+          for i in {1..30}; do
+            if curl -s http://localhost:8501 > /dev/null; then
+              echo "Application is running"
+              break
+            fi
+            echo "Waiting for application..."
+            sleep 2
+          done
+
       - name: Automated Tests
         run: |
           pytest -q
