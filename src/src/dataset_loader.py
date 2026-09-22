@@ -1,11 +1,9 @@
 import json
 from pathlib import Path
 
-
 class DatasetLoader:
     """
     Loads the TACO dataset annotations.
-
     Single Responsibility Principle:
     This class is responsible only for loading
     annotation data from the JSON file.
@@ -21,6 +19,5 @@ class DatasetLoader:
             raise FileNotFoundError(
                 f"Annotation file not found: {self.annotation_file}"
             )
-
         with self.annotation_file.open("r", encoding="utf-8") as file:
             return json.load(file)
